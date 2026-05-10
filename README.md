@@ -1,24 +1,13 @@
-# Layer personal site
+# Layer
 
-This is a personal site that can be deployed directly with GitHub Pages.
+Personal site for Layer, an AI full-stack developer, iOS developer, and product builder currently at ByteDance.
 
-## Local Preview
+Visit: <https://lllllayer.github.io>
 
-```bash
-python3 -m http.server 8000
-```
+## About
 
-Then open <http://localhost:8000>.
+This site collects selected projects, technical writing, and independent apps across AI products, local inference, Apple-platform development, and product experiments.
 
-## Publish To GitHub Pages
+## Contact
 
-1. Push the code to the `llllayer.github.io` GitHub repository.
-2. Open `Settings > Pages` in the repository.
-3. Choose `Deploy from a branch`, select `main`, and use the `/root` folder.
-4. Save the settings, wait for deployment, then visit the GitHub Pages URL for the repository.
-
-## Customization
-
-- `index.html`: update the name, intro, projects, articles, and contact links.
-- `styles.css`: adjust colors, layout, and responsive behavior.
-- `script.js`: add small interactions.
+Email: <yangjie.layer@gmail.com>
